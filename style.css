@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.logo {
+    width: 20%;
+}
+
+.menu {
+    display: flex;
+
+}
